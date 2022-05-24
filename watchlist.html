@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/index.css">
+  <title>Movie Watchlist</title>
+</head>
+<body>
+  <div class="header watchlist-header">
+    <h1>My Watchlist</h1>
+    <p><a href="./index.html">Search for movies</a></p>
+  </div>
+  <div class="watch-list">
+    <div class="emptylist-container">
+      <h3>Your watchlist is looking a little empty...</h4>
+        <div class="watchicon-container">
+          <img class="watch-icon" src="./images/plus-icon.svg" />
+          <a href="./index.html">Let's add some movies!</a>
+        </div>
+    </div>
+    <div class="watchlist-container">
+      <div class="empty-movie-container">
+        <img class="movie-icon" src="./images/film-icon.svg" />
+        <p>Start exploring</p>
+      </div>
+      
+    </div>
+    <div id="snackbar"></div>
+  </div>
+  <script type="module" src="./js/watchlist.js"></script>
+</body>
+</html>
