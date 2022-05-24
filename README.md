@@ -8,7 +8,7 @@ This app is meant to be a self directed exercise in
 [Repository](https://github.com/wilso663/movie-watchlist)  
 [Live Solution](https://wilso663.github.io/movie-watchlist/)
 
-![image](/images/movies.png)
+![image](/images/movies3.png)
 
 Users can
 1) Type into the search for movie field and press the search button to populate the web app with movie data from the omdbapi
