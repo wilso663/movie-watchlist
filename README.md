@@ -6,7 +6,7 @@ This app is meant to be a self directed exercise in
 2. Data Persistence with LocalStorage
 ## General Use
 [Repository](https://github.com/wilso663/movie-watchlist)  
-[Live Solution](https://wilso663.github.io/movie-watchlist/)
+[Live Solution](https://glistening-tarsier-399b9a.netlify.app/)
 
 ![image](/images/movies3.png)
 

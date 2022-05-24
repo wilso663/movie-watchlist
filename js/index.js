@@ -1,7 +1,7 @@
 
 import API_KEY from './apikey.js'
 
-const baseURL = "http://www.omdbapi.com/"
+const baseURL = "https://www.omdbapi.com/"
 
 const emptyMovieContainer = document.querySelector('.empty-movie-container')
 const emptyWatchListContainer = document.querySelector('.emptylist-container')
