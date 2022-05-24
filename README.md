@@ -13,7 +13,7 @@ This app is meant to be a self directed exercise in
 Users can
 1) Type into the search for movie field and press the search button to populate the web app with movie data from the omdbapi
 2) Add movies from the search to their watch list by clicking the plus icon next to add to watch list text
-3) Look at the watchlist page
+3) Look at the watchlist page to see individual movie data that persists after the page is closed
 
 ## Other Notes
 While this app is meant for use on a desktop, it is responsive and will work on modern phone sizes and layouts.

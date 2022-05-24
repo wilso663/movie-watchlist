@@ -1,6 +1,4 @@
 
-//todo extract to env variable fil
-
 const emptyMovieContainer = document.querySelector('.empty-movie-container')
 const emptyWatchListContainer = document.querySelector('.emptylist-container')
 
